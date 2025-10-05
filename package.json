@@ -1,0 +1,25 @@
+{
+  "name": "project2---chone-chapti",
+  "version": "1.0.0",
+  "description": "The Chone Chapati Concept  Chone Chapati is a revolutionary food concept dedicated to marrying the authentic comfort of home-cooked, flaky \"Saa'd's Heritage Dough\" chapati with the convenience of a handheld cone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donly8282-sys/project2---chone-chapti.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donly8282-sys/project2---chone-chapti/issues"
+  },
+  "homepage": "https://github.com/donly8282-sys/project2---chone-chapti#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "mongoose": "^8.19.0"
+  }
+}
